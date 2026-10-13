@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23"
+   height="23"
+   viewBox="0 0 23 23"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient10"><stop
+         style="stop-color:#7bdbff;stop-opacity:1;"
+         offset="0"
+         id="stop10" /><stop
+         style="stop-color:#0e9fff;stop-opacity:1;"
+         offset="1"
+         id="stop11" /></linearGradient><linearGradient
+       id="swatch1"><stop
+         style="stop-color:#ffffff;stop-opacity:0.5;"
+         offset="0"
+         id="stop1" /></linearGradient><linearGradient
+       xlink:href="#linearGradient10"
+       id="linearGradient11"
+       x1="9"
+       y1="9"
+       x2="32"
+       y2="32"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     id="layer1"
+     transform="translate(-9,-9)"><path
+       id="path6"
+       style="fill:url(#linearGradient11);fill-opacity:1;fill-rule:evenodd"
+       d="M 11.5 9 A 2.5 2.5 0 0 0 9 11.5 L 9 20 L 20 20 L 20 9 L 11.5 9 z M 21 9 L 21 20 L 32 20 L 32 11.5 A 2.5 2.5 0 0 0 29.5 9 L 21 9 z M 9 21 L 9 29.5 A 2.5 2.5 0 0 0 11.5 32 L 20 32 L 20 21 L 9 21 z M 21 21 L 21 32 L 29.5 32 A 2.5 2.5 0 0 0 32 29.5 L 32 21 L 21 21 z " /></g></svg>
